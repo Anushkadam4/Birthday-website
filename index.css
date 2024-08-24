@@ -269,7 +269,7 @@ font-family: cursive;
 
             .confetti:nth-child(7) {
                 left: 85%;
-                background-color: #239a5d;
+                background-color: rgba(25, 216, 102, 0.812);
                 animation-duration: 4s;
             }
 
