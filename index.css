@@ -218,3 +218,60 @@ font-family: cursive;
                 }
             }
 
+ .confetti {
+                position: absolute;
+                top: -10%;
+                left: calc(50% - 5px);
+                width: 10px;
+                height: 20px;
+                background-color: #db1b7b;
+                animation: fall 3s linear infinite;
+               
+
+            }
+            
+           
+            .confetti:nth-child(2) {
+                left: 25%;
+                background-color: #ff6f61;
+                animation-duration: 2s;
+            }
+            
+            .confetti:nth-child(3) {
+                left: 75%;
+                background-color: #61ff6f;
+                animation-duration: 4s;
+            }
+
+            .confetti:nth-child(4) {
+                left: 40%;
+                background-color: #c5279b;
+                animation-duration: 6s;
+            }
+
+            .confetti:nth-child(4) {
+                left: 60%;
+                background-color: #19ba26;
+                animation-duration: 4s;
+            }
+
+            .confetti:nth-child(5) {
+                left: 25%;
+                background-color: #1940cc;
+                animation-duration: 4s;
+            }
+
+            .confetti:nth-child(6) {
+                left: 75%;
+                background-color: #b32342;
+                animation-duration: 4s;
+            }
+
+            .confetti:nth-child(7) {
+                left: 85%;
+                background-color: #239a5d;
+                animation-duration: 4s;
+            }
+
+
+
