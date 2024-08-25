@@ -250,8 +250,7 @@ font-family: cursive;
 
             }
             
-           
-            .confetti:nth-child(2) {
+           .confetti:nth-child(2) {
                 left: 25%;
                 background-color: #ff6f61;
                 animation-duration: 2s;
@@ -271,18 +270,18 @@ font-family: cursive;
 
             .confetti:nth-child(4) {
                 left: 60%;
-                background-color: #19ba26;
+                background-color: #c21c8d;
                 animation-duration: 4s;
             }
 
             .confetti:nth-child(5) {
-                left: 25%;
+                left: 22%;
                 background-color: #1940cc;
                 animation-duration: 4s;
             }
 
             .confetti:nth-child(6) {
-                left: 75%;
+                left: 70%;
                 background-color: #b32342;
                 animation-duration: 4s;
             }
@@ -293,26 +292,26 @@ font-family: cursive;
                 animation-duration: 4s;
             }
 
-.confetti:nth-child(8) {
-                left: 80%;
+            .confetti:nth-child(8) {
+                left: 26%;
                 background-color: rgba(186, 33, 140, 0.812);
                 animation-duration: 4s;
             }
 
             .confetti:nth-child(9) {
-                left: 20%;
+                left: 19%;
                 background-color: rgba(36, 65, 210, 0.812);
                 animation-duration: 4s;
             }
 
             .confetti:nth-child(10) {
-                left: 65%;
+                left: 66%;
                 background-color: rgba(216, 187, 25, 0.812);
                 animation-duration: 4s;
             }
 
             .confetti:nth-child(11) {
-                left: 30%;
+                left: 74%;
                 background-color: rgba(83, 201, 40, 0.812);
                 animation-duration: 4s;
             }
@@ -324,32 +323,37 @@ font-family: cursive;
             }
 
             .confetti:nth-child(13) {
-                left: 27%;
+                left: 90%;
                 background-color: rgba(25, 216, 102, 0.812);
                 animation-duration: 4s;
             }
 
             .confetti:nth-child(14) {
-                left: 82%;
+                left: 10%;
                 background-color: rgba(0, 0, 0, 0.812);
                 animation-duration: 4s;
             }
 
             .confetti:nth-child(15) {
-                left: 63%;
+                left: 15%;
                 background-color: rgba(0, 0, 0, 0.812);
                 animation-duration: 4s;
             }
 
             .confetti:nth-child(16) {
-                left: 78%;
+                left: 95%;
                 background-color: rgba(46, 176, 111, 0.812);
                 animation-duration: 4s;
             }
 
             .confetti:nth-child(17) {
-                left: 85%;
+                left: 13%;
                 background-color: rgba(44, 39, 187, 0.812);
                 animation-duration: 4s;
             }
+
+
+          
+              
+            
 
