@@ -293,3 +293,63 @@ font-family: cursive;
                 animation-duration: 4s;
             }
 
+.confetti:nth-child(8) {
+                left: 80%;
+                background-color: rgba(186, 33, 140, 0.812);
+                animation-duration: 4s;
+            }
+
+            .confetti:nth-child(9) {
+                left: 20%;
+                background-color: rgba(36, 65, 210, 0.812);
+                animation-duration: 4s;
+            }
+
+            .confetti:nth-child(10) {
+                left: 65%;
+                background-color: rgba(216, 187, 25, 0.812);
+                animation-duration: 4s;
+            }
+
+            .confetti:nth-child(11) {
+                left: 30%;
+                background-color: rgba(83, 201, 40, 0.812);
+                animation-duration: 4s;
+            }
+
+            .confetti:nth-child(12) {
+                left: 55%;
+                background-color: rgba(20, 142, 109, 0.812);
+                animation-duration: 4s;
+            }
+
+            .confetti:nth-child(13) {
+                left: 27%;
+                background-color: rgba(25, 216, 102, 0.812);
+                animation-duration: 4s;
+            }
+
+            .confetti:nth-child(14) {
+                left: 82%;
+                background-color: rgba(0, 0, 0, 0.812);
+                animation-duration: 4s;
+            }
+
+            .confetti:nth-child(15) {
+                left: 63%;
+                background-color: rgba(0, 0, 0, 0.812);
+                animation-duration: 4s;
+            }
+
+            .confetti:nth-child(16) {
+                left: 78%;
+                background-color: rgba(46, 176, 111, 0.812);
+                animation-duration: 4s;
+            }
+
+            .confetti:nth-child(17) {
+                left: 85%;
+                background-color: rgba(44, 39, 187, 0.812);
+                animation-duration: 4s;
+            }
+
